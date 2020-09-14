@@ -20,6 +20,13 @@ div {
 .blue {
   background-color: blue;
 }
+.green {
+  background-color: green;
+}
+
+.pink {
+  background-color: mediumvioletred;
+}
 
 .invisible {
   display: none;
